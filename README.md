@@ -1,4 +1,4 @@
-Rombus: Helps you qucikly and easily compute slow and complex models
+Rombus: Helps you quickly and easily compute slow and complex models
 ====================================================================
 
 Rombus is a tool for building reduced order models (ROMs): matrix representations of arbitrary
